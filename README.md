@@ -10,3 +10,4 @@ http://127.0.0.1:8000/api/purchase_orders/
 http://127.0.0.1:8000/api/purchase_orders/<int:pk>
 http://127.0.0.1:8000/api/vendors/<int:pk>/performance/
 http://127.0.0.1:8000/api/purchase_orders/<int:pk>/acknowledge/
+where <int:pk> 1 or 2 or 3 number you can give
